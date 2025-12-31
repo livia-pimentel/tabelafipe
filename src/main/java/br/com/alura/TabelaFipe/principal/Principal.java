@@ -49,6 +49,12 @@ public class Principal {
                 .sorted(Comparator.comparing(Dados::codigo))
                 .forEach(System.out::println);
 
+        // Informar o codigo da marca desejada, para obter os modelos
+        System.out.println("Informe o código da marca para consulta: ");
+        var codigoMarca = leitura.nextLine();
+
+
+
     }
 
 }
