@@ -8,9 +8,9 @@
 
 ## 📝 Sobre o Projeto
 
-Este projeto foi desenvolvido como parte de um desafio técnico/estudo para consolidar conhecimentos em **Java** e **Spring Framework**. O objetivo principal é consumir uma API externa, tratar os dados recebidos (desserialização de JSON) e apresentar as informações de forma interativa ao usuário no terminal.
+Este projeto foi desenvolvido **durante o curso** da Formação Java Backend da **Alura**.
 
-A aplicação permite que o usuário navegue por marcas, modelos e anos para encontrar o valor atualizado de mercado de um veículo específico.
+O código foi construído passo a passo acompanhando as aulas do módulo *"Java: Trabalhando com Lambdas, Streams e Spring Framework"*. O objetivo foi aplicar na prática os conceitos de consumo de API, manipulação de dados e a estrutura do Spring Boot.
 
 ## ⚙️ Funcionalidades
 
