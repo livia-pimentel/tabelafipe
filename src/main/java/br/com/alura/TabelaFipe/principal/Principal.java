@@ -85,6 +85,9 @@ public class Principal {
         endereco = endereco + "/" + codigoModelo + "/anos";
         json = requisicaoApi.obterDados(endereco);
 
+        // Lista com os anos
+        List<Dados> anos = conversor.obterLista(json, Dados.class);
+
     }
 
 }
